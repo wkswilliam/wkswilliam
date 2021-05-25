@@ -10,6 +10,17 @@ I am a nerd that loves science. I love to explore complex themes and discover ho
   - Federal University of Santa Catarina, BSc Electronics Engineering, Sep 2009 - Mar 2015
 
 # Job Experience
+  ### TECH LEADER & DEVELOPER
+  #### DataRudder
+  - Give support to a Django Api and integrate with other services.
+  - Create ML models and run data analysis for custom projects.
+  - Create RPA to collect data and build a data lake.
+
+  ### DEVELOPER
+  #### Mola Corban
+  - Created an ETL application with Django and Celery to collect data from banks and serve it to the main application.
+  - Developed with crawlers with python.
+ 
   ### DATA SCIENTIST & BUSINESS PARTNER
   #### Intexfy
   - Build a database with data from all companies in Brazil coming from multiple sources resulting in more than 100Gb of data.
